@@ -2,8 +2,7 @@
 ## Uses
 * HTML Code Examples
 * Finding Help
-
-* if you have made it this far -- ƒ
+# ______________________
 Please Star/Favorite this repo, it helps 
 Thanks!
 
